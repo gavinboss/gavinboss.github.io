@@ -12,4 +12,4 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-![./images/1754051516368.jpg]{width="75%" fig-align-"center"}
+![./images/1754051516368.jpg]{width="75%" fig-align="center"}
