@@ -1,1 +1,2 @@
 # gavinboss.github.io
+gavinboss is a repository that is used to generate my personal website using GitHub Pages. This is for a class as I pursue my masters in Applied Business Analytics at Boston University.
