@@ -7,6 +7,13 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n![_site\\1754051516368.jpg]"
   },
   {
+    "objectID": "Assignment 1/system_info.html",
+    "href": "Assignment 1/system_info.html",
+    "title": "gavinboss.github.io",
+    "section": "",
+    "text": "title: “Assignment 01” subtitle: “System Information Proof” author: “Gavin Boss” format: docx: default\nimport platform import psutil\nprint(“Operating System:”, platform.system(), platform.release()) print(“Python Version:”, platform.python_version()) print(“Machine:”, platform.machine()) print(“Processor:”, platform.processor())\nmem = psutil.virtual_memory() print(“Total Memory (MB):”, round(mem.total / (10242), 2)) print(“Available Memory (MB):”, round(mem.available / (10242), 2))"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
