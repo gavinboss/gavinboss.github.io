@@ -17,5 +17,28 @@ format:
     css: styles.css
     toc: true
 
+Project:
+  type: website
+  
+website:
+  title: "Gavin Boss - Applied Business Analytics Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "About Me"
+      - href: projects.qmd
+        text: "Projects"
+      - href: cv.qmd
+        text: "Curriculum Vitae (CV)"
+      - href: contact.qmd
+        text: "Contact"
 
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    code-fold: true
+    anchor-sections: true
+    df-print: paged
 
