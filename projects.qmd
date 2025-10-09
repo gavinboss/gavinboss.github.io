@@ -9,11 +9,11 @@ Unfortunetly due to the nature of my current job there are no references to my j
 
 # Education Projects
 
-While attending Boston University I have completed a few assignments that can be accessed via the linked provided. These were with the assistance of my professor and the lessons for the courses but all documentation is attached to the attached GitHubs.
+While attending Boston University I have completed a few assignments that can be accessed via the linked provided. These were with the assistance of my professor and the lessons for the courses, but all documentation is attached to the attached GitHubs.
 
 # Assignment 2
 
-Assignment description here:
+Assignment description: This assignment was about sorting through data to look for key indicators such as average salary, monthly job posting trends in specific states, identifying specific companies that were hiring for remote jobs, and looking at median salary trends among other activities. These charts highlight the work that was done to accomplish some of these goals. Not only did we isolate the variables of salary, companies , remote work, and occupation, but we were also able to lay out the data in a readable and digestible way for a consumer that would be valuable for someone looking to enter the job market or gain insight into things such as the biggest remote working companies or what the average median pay could be for these types of jobs. This data could be sorted even further as this was just a baseline for the data.
 
 <table>
 <tr>
@@ -34,7 +34,7 @@ Link: [Assignment 2](https://github.com/met-ad-688/assignment-02-gavinboss)
 
 # Assignment 3
 
-Assignment Description here:
+Assignment Description: This assignment focuses on the different industries and the pay differences that can be observed throughout them. This is something that was observed through LinkedIn data and could break out what types of job fields individuals may be interested in going into. Some of these graphs indicate that more specific jobs with unique skillsets have higher paying jobs but also show that those higher paying jobs may have less job postings overall. There was also the correlation of degree to pay, which is noted in the later charts and sorting through this data could indicate if pursuing a degree or more experience would be worth it for an individual in the long run.
 
 
 <table>
