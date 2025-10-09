@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download my full CV below:\n👉 Download CV (PDF)\n\n\nExperienced in machine learning, optimization modeling, and data visualization. Skilled in Python, SQL, and Quarto."
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Experienced in machine learning, optimization modeling, and data visualization. Skilled in Python, SQL, and Quarto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nHi, I’m Gavin Boss — a Applied Business Analytics student at Boston University passionate about analytics.\nMy goals include advancing my analytical toolkit outside of governement contracting with the DOD and developing expertise in business analysis.\n\n\n\nProfile photo"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact Me\nI’d love to connect!\n\n📧 Email: youremail@example.com\n💼 LinkedIn: linkedin.com/in/yourprofile\n🐙 GitHub: github.com/yourusername"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Website!",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
