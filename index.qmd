@@ -1,13 +1,69 @@
 ---
-title: "Welcome to my Website!"
+title: Gavin Boss | Applied Business Analytics
 author: "Gavin Boss"
-Date: "2025-09-11"
-format:
-    html:
-        theme: cosmo
-        css: styles.css
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    theme: cosmo
+    css: styles.css
 ---
 
-This is a Quarto website.
+**Applied Business Analytics Student | All Source Intelligence Analyst | Data & Strategy Enthusiast**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+---
+
+## Welcome
+
+Hi, I’m Gavin Boss — an **Applied Business Analytics** student at Boston University with a passion for data, analytics, and problem-solving. I bring **8+ years of experience in intelligence analysis** from the U.S. military and am now transitioning into the private sector to expand my analytical expertise into business applications.
+
+I specialize in transforming complex data into actionable insights, leading teams, and supporting strategic decision-making. My goal is to leverage my analytical toolkit to solve real-world business problems and drive impactful results.
+
+---
+
+## Explore My Work
+
+### [Professional Experience](#professional-experience)
+- Intelligence analysis and operational leadership in high-tempo environments.
+- Expertise across **OSINT, HUMINT, SIGINT** domains.
+- Leadership experience managing teams of up to 120 personnel.
+
+### [Education Projects](#projects)
+- Applied Business Analytics projects completed at Boston University.
+- Practical assignments demonstrating **data analysis, visualization, and decision modeling**.
+- All projects are accessible via GitHub links below.
+
+### [Skills & Tools](#skills)
+- **Technical Skills:** Analyst Notebook, Palantir, Python (for analytics), Excel, SQL
+- **Analytical Disciplines:** OSINT, HUMINT, SIGINT, Business Analytics
+- **Soft Skills:** Critical Thinking, Leadership, Collaboration, Communication
+
+---
+
+## Featured Projects
+
+Here are some of my analytics projects completed as part of my coursework:
+
+- **[Project 2 Name](https://github.com/met-ad-688/assignment-02-gavinboss)** – Short description of what the project achieved.
+- **[Project 3 Name](https://github.com/met-ad-688/assignment-03-gavinboss)** – Short description of insights or analysis performed.
+- **[Project 4 Name](https://github.com/met-ad-688/assignment-04-gavinboss)** – Short description highlighting tools or techniques used.
+
+*(All projects include documentation and code hosted on GitHub.)*
+
+---
+
+## Connect With Me
+
+- [GitHub](https://github.com/gavinboss) – View all my projects and assignments  
+- [LinkedIn](https://www.linkedin.com/in/gavinboss/) – Professional networking  
+- [CV PDF](https://github.com/gavinboss/gavinboss.github.io/blob/main/Gavin%20Boss%20CV.pdf) – Download my CV
+
+---
+
+## Professional Summary
+
+Intelligence Analyst with over 7 years of experience in **data synthesis, operational leadership, and strategic analysis**. Passionate about applying analytical thinking to business challenges, leveraging both technical and soft skills to drive actionable outcomes.
+
+---
+
