@@ -28,7 +28,7 @@ Assignment description: This assignment was about sorting through data to look f
 
 [These are some of the graphs that were created for this assignment]
 
-Link: [Assignment 2](https://github.com/met-ad-688/assignment-02-gavinboss)
+Link: [Assignment 2 GitHub](https://github.com/met-ad-688/assignment-02-gavinboss)
 
 ---
 
@@ -57,7 +57,7 @@ Assignment Description: This assignment focuses on the different industries and 
 
 [These are some of the graphs that were created for this assignment]
 
-Link: [Assignment 3](https://github.com/met-ad-688/assignment-03-gavinboss)
+Link: [Assignment 3 GitHub](https://github.com/met-ad-688/assignment-03-gavinboss)
 
 ---
 
