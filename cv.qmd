@@ -1,12 +1,104 @@
 ---
 title: "Curriculum Vitae"
+author: "Gavin Boss"
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    theme: cosmo
+    css: styles.css
 ---
 
-# My CV
+# Gavin Boss
+**All Source Intelligence Analyst**   
+---
 
-You can download my full CV below:
+## Professional Summary
+Intelligence Analyst with over 7 years of experience in intelligence analysis, data synthesis, and operational leadership. Possesses a **TS//SCI Security Clearance with polygraph** and extensive experience across **OSINT**, **SIGINT**, and **HUMINT** domains. Proven ability to identify trends, develop actionable insights, and support strategic decision-making in high-tempo environments. Passionate about applying analytical thinking and technology to strengthen mission success and organizational intelligence capabilities.
 
-👉 [Download CV (PDF)](cv/YourName_CV.pdf)
+---
 
-## Summary
-Experienced in machine learning, optimization modeling, and data visualization. Skilled in Python, SQL, and Quarto.
+## Education
+**Boston University**  
+*Master of Science in Applied Business Analytics*  
+*Jan 2025 – Present*
+
+**University of Maryland Global Campus**  
+*Bachelor’s Degree in Cybersecurity Management and Policy (Honors)*  
+*2021 – Dec 2024*
+
+---
+
+## Professional Experience
+
+### **Mid All Source Analyst — Amentum**
+*U.S. Central Command (USCENTCOM), Tampa, FL*  
+
+**Mar 2025 – Present**  
+- Conducts geopolitical analysis to support CENTCOM’s strategic planning.  
+- Drafts intelligence reports aligned with command priorities, improving operational decision-making.  
+- Collaborates with external entities to co-author intelligence products and promote interagency coordination.  
+- Supports partner engagement across the 5th Fleet Area of Responsibility (AOR), strengthening regional intelligence cooperation.
+
+---
+
+### **Intelligence Assistant — Commander Patrol and Reconnaissance Group**  
+*Norfolk, VA | Oct 2021 – Nov 2024*  
+- Provided intelligence analysis for global patrol and reconnaissance missions.  
+- Delivered Flag-level intelligence briefings, enhancing operational awareness and readiness.  
+- Managed security clearances for 47 personnel and ensured compliance with TS/SCI standards.  
+- Co-created the MPRA Special Security Program for maintaining aircraft with TS/SCI classification.
+
+---
+
+### **Intelligence Watch Supervisor — USS Dwight D. Eisenhower** 
+*Norfolk, VA | Jun 2018 – Jun 2021*  
+- Led a 15-member team delivering daily intelligence briefs for C5F and C6F deployments.  
+- Produced over 1,000 intelligence products and 1,600 tactical reports supporting multi-fleet operations.  
+- Implemented advanced analytical techniques to improve threat assessments and operational planning.  
+- Recognized for outstanding leadership under high-stress operational conditions.
+
+---
+
+### **Intelligence Specialist (E-6) — U.S. Navy**  
+*Norfolk, VA | Nov 2017 – Nov 2024*  
+- Coordinated intelligence operations for four warships, enhancing situational awareness.  
+- Supported C7F assets in Japan, preparing mission briefs and assessments.  
+- Developed and trained junior analysts, improving team efficiency and readiness.  
+- Leveraged OSINT, HUMINT, and SIGINT tools (including Analyst Notebook and Palantir) to produce actionable intelligence.
+
+---
+
+## Honors & Awards
+- Navy and Marine Corps Achievement Medal (3)  
+  - USS Dwight D. Eisenhower (Rear Adm. McLane)  
+  - USS Dwight D. Eisenhower (Capt. Campagna)  
+  - Patrol Squadron Sixteen (Cmdr. Radford)  
+- Navy and Marine Corps Commendation Medal (Adm. Mietus)  
+- Operational Deployments:  
+  - 2020 – Fifth and Sixth Fleet, Operation Inherent Resolve  
+  - 2021 – Fifth and Sixth Fleet, Operation Inherent Resolve  
+  - 2023 – Seventh Fleet (Kadena, Japan), MPRA Support
+
+---
+
+## Skills
+- **Security Clearance:** TS/SCI with Polygraph  
+- **Analytical Disciplines:** OSINT, HUMINT, SIGINT  
+- **Technical Skills:** Analyst Notebook, Palantir  
+- **Soft Skills:** Critical Thinking, Leadership, Collaboration, Communication  
+- **Project Management:** Strategic Planning, Data Analysis, Information Dissemination  
+
+---
+
+## Military Experience
+- Directed 120 specialists, enhancing tactical readiness and information flow.  
+- Managed Special Security Program compliance for TS/SCI environments.  
+- Co-developed protocols for new intelligence-gathering processes and training standards.  
+
+---
+
+## Languages
+- **English:** Native  
+---
