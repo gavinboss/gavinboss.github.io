@@ -46,9 +46,9 @@ I specialize in transforming complex data into actionable insights, leading team
 
 Here are some of my analytics projects completed as part of my coursework:
 
-- **[Project 2 Name](https://github.com/met-ad-688/assignment-02-gavinboss)** – Short description of what the project achieved.
-- **[Project 3 Name](https://github.com/met-ad-688/assignment-03-gavinboss)** – Short description of insights or analysis performed.
-- **[Project 4 Name](https://github.com/met-ad-688/assignment-04-gavinboss)** – Short description highlighting tools or techniques used.
+- **[Assignment 2](https://github.com/met-ad-688/assignment-02-gavinboss)** – Sorted through key indicators to create dataframes and graphs to depict key data.
+- **[Assignment 3](https://github.com/met-ad-688/assignment-03-gavinboss)** – Utilized unique data points to highlight key insights into data trends that could be explored further.
+- **[Assignment 4](https://github.com/met-ad-688/assignment-04-gavinboss)** – Still being worked on.
 
 *(All projects include documentation and code hosted on GitHub.)*
 
