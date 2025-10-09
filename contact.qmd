@@ -1,8 +1,7 @@
 ---
-title: "Contact"
+title: "Contact Me!"
 ---
 
-# Contact Me
 
 I’d love to connect!
 
