@@ -9,16 +9,20 @@ While attending Boston University I have completed a few assignments that can be
 
 # Assignment 2
 
+Assignment description here:
+
 <table>
 <tr>
-<td><img src="images/assignment-2-1.png" width="200px"></td>
-<td><img src="images/assignment-2-2.png" width="200px"></td>
+<td><img src="images/assignment-2-1.png" width="400px"></td>
+<td><img src="images/assignment-2-2.png" width="400px"></td>
 </tr>
 <tr>
-<td><img src="images/assignment-2-3.png" width="200px"></td>
-<td><img src="images/assignment-2-4.png" width="200px"></td>
+<td><img src="images/assignment-2-3.png" width="400px"></td>
+<td><img src="images/assignment-2-4.png" width="400px"></td>
 </tr>
 </table>
+
+[These are some of the graphs that were created for this assignment]
 
 Link: [Assignment 2](https://github.com/met-ad-688/assignment-02-gavinboss)
 
