@@ -2,17 +2,25 @@
 title: "Projects"
 
 ---
+
 # Education Projects
 
 While attending Boston University I have completed a few assignments that can be accessed via the linked provided. These were with the assistance of my professor and the lessons for the courses but all documentation is attached to the attached GitHubs.
 
 # Assignment 2
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="images/assignment-2-1.png" alt="Assignment 2 Screenshot 1" width="100%">
-  <img src="images/Assignment-2-2.png" alt="Assignment 2 Screenshot 2" width="100%">
-  <img src="images/Assignment-2-3.png" alt="Assignment 2 Screenshot 3" width="100%">
-  <img src="images/Assignment-2-4.png" alt="Assignment 2 Screenshot 4" width="100%">
-</div>
+<table>
+<tr>
+<td><img src="images/assignment-2-1.png" width="200px"></td>
+<td><img src="images/assignment-2-2.png" width="200px"></td>
+</tr>
+<tr>
+<td><img src="images/assignment-2-3.png" width="200px"></td>
+<td><img src="images/assignment-2-4.png" width="200px"></td>
+</tr>
+</table>
+
+Link: [Assignment 2](https://github.com/met-ad-688/assignment-02-gavinboss)
 
 ---
+
