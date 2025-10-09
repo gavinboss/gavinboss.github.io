@@ -15,7 +15,7 @@ format:
 ---
 
 ## Professional Summary
-Intelligence Analyst with over 7 years of experience in intelligence analysis, data synthesis, and operational leadership. Possesses a **TS//SCI Security Clearance with polygraph** and extensive experience across **OSINT**, **SIGINT**, and **HUMINT** domains. Proven ability to identify trends, develop actionable insights, and support strategic decision-making in high-tempo environments. Passionate about applying analytical thinking and technology to strengthen mission success and organizational intelligence capabilities.
+Intelligence Analyst with over 7 years of experience in intelligence analysis, data synthesis, and operational leadership. Extensive experience across **OSINT**, **SIGINT**, and **HUMINT** domains. Proven ability to identify trends, develop actionable insights, and support strategic decision-making in high-tempo environments. Passionate about applying analytical thinking and technology to strengthen mission success and organizational intelligence capabilities.
 
 ---
 
