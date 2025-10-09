@@ -1,5 +1,11 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
+
+Hi, I’m Gavin Boss — a Applied Business Analytics student at Boston University passionate about analytics.
+
+My goals include advancing my analytical toolkit outside of governement contracting with the DOD and developing expertise in business analysis. 
+
+![Profile photo](images\1754051516368.jpg)

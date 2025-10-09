@@ -1,5 +1,12 @@
 ---
-title: "Curriculum Vitae (CV)"
+title: "Curriculum Vitae"
 ---
 
-About this site
+# My CV
+
+You can download my full CV below:
+
+👉 [Download CV (PDF)](cv/YourName_CV.pdf)
+
+## Summary
+Experienced in machine learning, optimization modeling, and data visualization. Skilled in Python, SQL, and Quarto.
