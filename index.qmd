@@ -8,6 +8,7 @@ format:
     code-fold: false
     theme: cosmo
     css: styles.css
+
 ---
 
 **Applied Business Analytics Student | All Source Intelligence Analyst | Data & Strategy Enthusiast**
