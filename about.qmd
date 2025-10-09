@@ -2,9 +2,9 @@
 title: "About Me"
 ---
 
-# About Me
-
 Hi, I’m Gavin Boss — a Applied Business Analytics student at Boston University passionate about analytics.
+
+I have been a Intelligence analyst for roughly 8 years but am looking to transition out of the military world and into the private sector and want to expand into business analytics. I have been attending online courses through Boston University while maintaining a full time job at USCENTCOM as an All Source Analyst.
 
 My goals include advancing my analytical toolkit outside of governement contracting with the DOD and developing expertise in business analysis. 
 
