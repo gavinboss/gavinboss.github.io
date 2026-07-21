@@ -528,3 +528,21 @@ Link: [Assignment 5 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-R
 </details>
 
 ---
+
+# Business Analytics Foundations
+
+<details>
+<summary><strong>Assignments 1-5</strong></summary>
+
+<br>
+
+<h2>Assignments 1-5</h2>
+
+<p>
+All assignments uploaded to GitHub and can be accessed via the link below.
+</p>
+
+Link: [Assignment 1-5 GitHub](https://github.com/gavinboss/AD571S-Business-Analytics-Foundations)
+</details>
+
+---
