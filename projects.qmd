@@ -223,5 +223,5 @@ Assignment description:
 
 Link: [Assignment 2 GitHub](https://github.com/gavinboss/AD699-Data-Mining-for-Business-Analytics/tree/main/Assignment%202)
 
-</details>
+
 ---
