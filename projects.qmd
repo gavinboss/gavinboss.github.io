@@ -225,4 +225,123 @@ Assignment description:
 Link: [Assignment 2 GitHub](https://github.com/gavinboss/AD699-Data-Mining-for-Business-Analytics/tree/main/Assignment%202)
 
 </details>
+
+---
+
+<details>
+<summary><strong>Assignment 3</strong></summary>
+
+<br>
+
+<h2>Assignment 3</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/DM assignment 3-1.png" width="700px">
+</p>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 3 GitHub](https://github.com/gavinboss/AD699-Data-Mining-for-Business-Analytics/tree/main/Assignment%203)
+
+</details>
+
+---
+
+<details>
+<summary><strong>Group Project</strong></summary>
+
+<br>
+
+<h2>Group Project</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/DM group project 1-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-2.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-3.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-4.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-5.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-6.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-7.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-8.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-9.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-10.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-11.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-12.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-13.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-14.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-15.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-16.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM group project 1-17.png" width="700px">
+</p>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Group Project GitHub](https://github.com/samarthya/METAD699-Project)
+
+</details>
+
 ---
