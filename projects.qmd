@@ -148,3 +148,78 @@ Link: [Assignment 4 GitHub](https://github.com/met-ad-688/assignment-04-gavinbos
 </details>
 
 ---
+
+# Data Mining for Business Analytics
+
+<details>
+<summary><strong>Assignment 1</strong></summary>
+
+<br>
+
+<h2>Assignment 1</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/DM assignment 1-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM assignment 1-2.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM assignment 1-3.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM assignment 1-4.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM assignment 1-5.png" width="700px">
+</p>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 1 GitHub](https://github.com/gavinboss/AD699-Data-Mining-for-Business-Analytics/tree/main/Assignment%201)
+
+---
+
+<details>
+<summary><strong>Assignment 2</strong></summary>
+
+<br>
+
+<h2>Assignment 2</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/DM assignment 2-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM assignment 2-2.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/DM assignment 2-3.png" width="700px">
+</p>
+
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 2 GitHub](https://github.com/gavinboss/AD699-Data-Mining-for-Business-Analytics/tree/main/Assignment%202)
