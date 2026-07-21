@@ -345,3 +345,186 @@ Link: [Group Project GitHub](https://github.com/samarthya/METAD699-Project)
 </details>
 
 ---
+
+# Enterprise Risk Analysis
+
+<details>
+<summary><strong>Assignment 1</strong></summary>
+
+<br>
+
+<h2>Assignment 1</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/ERA assignment 1-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 1-2.png" width="700px">
+</p>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 1 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-Risk-Analysis/tree/main/Assignment%201)
+</details>
+
+---
+
+<details>
+<summary><strong>Assignment 2</strong></summary>
+
+<br>
+
+<h2>Assignment 2</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/ERA assignment 2-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 2-2.png" width="700px">
+</p>
+
+  <img src="images/ERA assignment 2-3.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 2-4.png" width="700px">
+</p>
+
+  <img src="images/ERA assignment 2-5.png" width="700px">
+</p>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 2 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-Risk-Analysis/tree/main/Assignment%202)
+</details>
+
+---
+
+<details>
+<summary><strong>Assignment 3</strong></summary>
+
+<br>
+
+<h2>Assignment 3</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/ERA assignment 3-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 3-2.png" width="700px">
+</p>
+
+  <img src="images/ERA assignment 3-3.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 3-4.png" width="700px">
+</p>
+
+  <img src="images/ERA assignment 3-5.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 3-6.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 3-7.png" width="700px">
+</p>
+
+  <img src="images/ERA assignment 3-8.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 3-9.png" width="700px">
+</p>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 3 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-Risk-Analysis/tree/main/Assignment%203)
+</details>
+
+---
+
+<details>
+<summary><strong>Assignment 4</strong></summary>
+
+<br>
+
+<h2>Assignment 4</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/ERA assignment 4-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/ERA assignment 4-2.png" width="700px">
+</p>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 4 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-Risk-Analysis/tree/main/Assignment%204)
+</details>
+
+---
+
+<details>
+<summary><strong>Assignment 5</strong></summary>
+
+<br>
+
+<h2>Assignment 5</h2>
+
+<p>
+Assignment description: 
+</p>
+
+<table>
+<tr>
+<p align="center">
+  <img src="images/ERA assignment 5-1.png" width="700px">
+</p>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 5 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-Risk-Analysis/tree/main/Assignment%205)
+</details>
+
+---
