@@ -1,5 +1,5 @@
 ---
-title: "Educational Projects"
+title: "Projects"
 
 ---
 
@@ -148,5 +148,3 @@ Link: [Assignment 4 GitHub](https://github.com/met-ad-688/assignment-04-gavinbos
 </details>
 
 ---
-
-https://gavinboss.github.io/ad688-employability-sp25A1-group13/
