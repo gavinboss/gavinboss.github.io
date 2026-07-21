@@ -11,10 +11,10 @@ Unfortunetly due to the nature of my current job there are no references to my j
 
 While attending Boston University I have completed a few assignments that can be accessed via the linked provided. These were with the assistance of my professor and the lessons for the courses, but all documentation is attached to the attached GitHubs.
 
-# Data Mining for Business Analytics
+# Cloud Analytics for Business
 
 <details>
-<summary><strong>MET AD 699 — Cloud Analytics for Business</strong></summary>
+<summary><strong>Assignment 2</strong></summary>
 
 <br>
 
@@ -43,10 +43,16 @@ Link: [Assignment 2 GitHub](https://github.com/met-ad-688/assignment-02-gavinbos
 
 ---
 
-# Assignment 3
+<details>
+<summary><strong>Assignment 3</strong></summary>
 
+<br>
+
+<h2>Assignment 3</h2>
+
+<p>
 Assignment Description: This assignment focuses on the different industries and the pay differences that can be observed throughout them. This is something that was observed through LinkedIn data and could break out what types of job fields individuals may be interested in going into. Some of these graphs indicate that more specific jobs with unique skillsets have higher paying jobs but also show that those higher paying jobs may have less job postings overall. There was also the correlation of degree to pay, which is noted in the later charts and sorting through this data could indicate if pursuing a degree or more experience would be worth it for an individual in the long run.
-
+</p>
 
 <table>
 <tr>
@@ -69,6 +75,8 @@ Assignment Description: This assignment focuses on the different industries and 
 [These are some of the graphs that were created for this assignment]
 
 Link: [Assignment 3 GitHub](https://github.com/met-ad-688/assignment-03-gavinboss)
+
+</details>
 
 ---
 
