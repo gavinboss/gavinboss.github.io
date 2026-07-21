@@ -79,9 +79,31 @@ Link: [Assignment 3 GitHub](https://github.com/met-ad-688/assignment-03-gavinbos
 </details>
 ---
 
-# Assignment 4
+<details>
+<summary><strong>Assignment 4</strong></summary>
 
-Assignment Description Here: This assignment is currently still being submitted and worked on prior to being added to the website!
+<br>
+
+<h2>Assignment 4</h2>
+
+<p>
+Assignment Description: This assignment focused on building and comparing multiple machine learning models—including Generalized Linear Regression, Polynomial Regression, and Random Forest—to predict salaries using job posting data. The project evaluated each model using performance metrics and visualizations, identified the most influential features affecting salary predictions, and compared model accuracy to determine the strengths and limitations of each approach.
+</p>
+
+<table>
+<tr>
+<td><img src="images/assignment 4-1.png" width="250px"></td>
+<td><img src="images/assignment 4-2.png" width="250px"></td>
+<td><img src="images/assignment 4-3.png" width="250px"></td>
+<td><img src="images/assignment 4-4.png" width="250px"></td>
+</tr>
+</table>
+
+[These are some of the graphs that were created for this assignment]
+
+Link: [Assignment 4 GitHub](https://github.com/met-ad-688/assignment-04-gavinboss)
+
+</details>
 
 ---
 
