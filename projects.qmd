@@ -27,19 +27,19 @@ Assignment description: This assignment was about sorting through data to look f
 <table>
 <tr>
 <p align="center">
-  <img src="images/assignment 2-1.png" width="700px">
+  <img src="images/assignment-2-1.png" width="700px">
 </p>
 
 <p align="center">
-  <img src="images/assignment 2-2.png" width="700px">
+  <img src="images/assignment-2-2.png" width="700px">
 </p>
 
 <p align="center">
-  <img src="images/assignment 2-3.png" width="700px">
+  <img src="images/assignment-2-3.png" width="700px">
 </p>
 
 <p align="center">
-  <img src="images/assignment 2-4.png" width="700px">
+  <img src="images/assignment-2-4.png" width="700px">
 </p>
 </tr>
 </table>
