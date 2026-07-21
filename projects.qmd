@@ -26,12 +26,21 @@ Assignment description: This assignment was about sorting through data to look f
 
 <table>
 <tr>
-<td><img src="images/assignment-2-1.png" width="400px"></td>
-<td><img src="images/assignment-2-2.png" width="400px"></td>
-</tr>
-<tr>
-<td><img src="images/assignment-2-3.png" width="400px"></td>
-<td><img src="images/assignment-2-4.png" width="400px"></td>
+<p align="center">
+  <img src="images/assignment 2-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 2-2.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 2-3.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 2-4.png" width="700px">
+</p>
 </tr>
 </table>
 
@@ -56,19 +65,41 @@ Assignment Description: This assignment focuses on the different industries and 
 
 <table>
 <tr>
-<td><img src="images/assignment 3-1.png" width="250px"></td>
-<td><img src="images/assignment 3-2.png" width="250px"></td>
-<td><img src="images/assignment 3-3.png" width="250px"></td>
-</tr>
-<tr>
-<td><img src="images/assignment 3-4.png" width="250px"></td>
-<td><img src="images/assignment 3-5.png" width="250px"></td>
-<td><img src="images/assignment 3-6.png" width="250px"></td>
-</tr>
-<tr>
-<td><img src="images/assignment 3-7.png" width="250px"></td>
-<td><img src="images/assignment 3-8.png" width="250px"></td>
-<td><img src="images/assignment 3-9.png" width="250px"></td>
+<p align="center">
+  <img src="images/assignment 3-1.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 3-2.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 3-3.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 3-4.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 3-5.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 3-6.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 3-7.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 3-8.png" width="700px">
+</p>
+
+<p align="center">
+  <img src="images/assignment 3-9.png" width="700px">
+</p>
 </tr>
 </table>
 
