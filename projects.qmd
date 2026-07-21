@@ -14,35 +14,15 @@ While attending Boston University I have completed a few assignments that can be
 # Data Mining for Business Analytics
 
 <details>
-<summary><strong>MET AD 699 — Data Mining for Business Analytics</strong></summary>
+<summary><strong>MET AD 699 — Cloud Analytics for Business</strong></summary>
 
 <br>
 
-<h2>Zurich Airbnb Project</h2>
+<h2>Assignment 2</h2>
 
 <p>
 Assignment description: This assignment was about sorting through data to look for key indicators such as average salary, monthly job posting trends in specific states, identifying specific companies that were hiring for remote jobs, and looking at median salary trends among other activities. These charts highlight the work that was done to accomplish some of these goals. Not only did we isolate the variables of salary, companies , remote work, and occupation, but we were also able to lay out the data in a readable and digestible way for a consumer that would be valuable for someone looking to enter the job market or gain insight into things such as the biggest remote working companies or what the average median pay could be for these types of jobs. This data could be sorted even further as this was just a baseline for the data.
 </p>
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>MET AD 616 — Enterprise Risk Analytics</strong></summary>
-
-<br>
-
-<h2>Monte Carlo Simulation Project</h2>
-
-<p>
-This project used Monte Carlo simulation, optimization under uncertainty,
-Bayesian analysis, and Net Present Value modeling.
-</p>
-
-</details>
-
-
 
 <table>
 <tr>
@@ -58,6 +38,8 @@ Bayesian analysis, and Net Present Value modeling.
 [These are some of the graphs that were created for this assignment]
 
 Link: [Assignment 2 GitHub](https://github.com/met-ad-688/assignment-02-gavinboss)
+
+</details>
 
 ---
 
