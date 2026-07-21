@@ -216,7 +216,6 @@ Assignment description:
 <p align="center">
   <img src="images/DM assignment 2-3.png" width="700px">
 </p>
-
 </tr>
 </table>
 
