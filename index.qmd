@@ -17,9 +17,15 @@ format:
 
 ## Welcome
 
-Hi, I’m Gavin Boss — an **Applied Business Analytics** student at Boston University with a passion for data, analytics, and problem-solving. I bring **8+ years of experience in intelligence analysis** from the U.S. military and am now transitioning into the private sector to expand my analytical expertise into business applications.
+Hi, I’m Gavin Boss — a recent **Applied Business Analytics** graduate from Boston University with a passion for data, analytics, and problem-solving. I bring **8+ years of experience in intelligence analysis** from the U.S. military and am now transitioning into the private sector to expand my analytical expertise into business applications.
 
 I specialize in transforming complex data into actionable insights, leading teams, and supporting strategic decision-making. My goal is to leverage my analytical toolkit to solve real-world business problems and drive impactful results.
+
+---
+
+## Professional Summary
+
+Business Intelligence and Data Analyst with 8+ years of experience transforming complex data into actionable insights that support executive decision-making. Currently completing a Master of Science in Applied Business Analytics at Boston University, with hands-on experience in Python, SQL, Power BI, machine learning, predictive analytics, statistical modeling, and data visualization. Passionate about solving business problems through data-driven analysis, communicating technical findings to diverse stakeholders, and building analytical solutions that improve organizational performance.
 
 ---
 
@@ -44,13 +50,15 @@ I specialize in transforming complex data into actionable insights, leading team
 
 ## Featured Projects
 
-Here are some of my analytics projects completed as part of my coursework:
+My portfolio showcases graduate-level projects completed at **Boston University** in business analytics, data science, machine learning, and risk analysis. These projects demonstrate practical experience with Python, R, SQL, Power BI, statistical modeling, predictive analytics, optimization, and data visualization to solve real-world business problems.
 
-- **[Assignment 2](https://github.com/met-ad-688/assignment-02-gavinboss)** – Sorted through key indicators to create dataframes and graphs to depict key data.
-- **[Assignment 3](https://github.com/met-ad-688/assignment-03-gavinboss)** – Utilized unique data points to highlight key insights into data trends that could be explored further.
-- **[Assignment 4](https://github.com/met-ad-688/assignment-04-gavinboss)** – Still being worked on.
+Highlights include:
+- **Cloud Analytics for Business** – Data exploration, visualization, and machine learning using labor market datasets.
+- **Data Mining for Business Analytics** – Predictive modeling, classification, clustering, NLP, and an end-to-end Airbnb market analysis project.
+- **Enterprise Risk Analysis** – Monte Carlo simulation, Bayesian inference, optimization, decision analysis, and financial risk modeling.
+- **Business Analytics Foundations** – Business intelligence, forecasting, regression analysis, optimization, and strategic decision-making through a comprehensive real estate analytics case study.
 
-*(All projects include documentation and code hosted on GitHub.)*
+Each project includes documentation, visualizations, source code, and detailed analyses hosted on GitHub.
 
 ---
 
@@ -59,12 +67,6 @@ Here are some of my analytics projects completed as part of my coursework:
 - [GitHub](https://github.com/gavinboss) – View all my projects and assignments  
 - [LinkedIn](https://www.linkedin.com/in/gavinboss/) – Professional networking  
 - [CV PDF](https://github.com/gavinboss/gavinboss.github.io/blob/main/Gavin%20Boss%20CV.pdf) – Download my CV
-
----
-
-## Professional Summary
-
-Intelligence Analyst with over 7 years of experience in **data synthesis, operational leadership, and strategic analysis**. Passionate about applying analytical thinking to business challenges, leveraging both technical and soft skills to drive actionable outcomes.
 
 ---
 
