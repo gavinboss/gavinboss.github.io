@@ -13,7 +13,7 @@ format:
 # Gavin Boss
 **Business Analyst**   
 
-Can be downloaded in PDF here! [Download](https://github.com/gavinboss/gavinboss.github.io/blob/main/Gavin%20Boss%20CV.pdf)
+Can be downloaded in PDF here! [Download](https://github.com/gavinboss/gavinboss.github.io/blob/main/Business%20Analyst%20Resume_Gavin%20Boss.pdf)
 
 ---
 
@@ -98,6 +98,7 @@ Completed June 2026 | Degree Conferral August 2026
 - Process Improvement
 - Problem Solving
 - Project Management
+
 ---
 
 ## Projects
