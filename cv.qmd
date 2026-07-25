@@ -11,21 +11,22 @@ format:
 ---
 
 # Gavin Boss
-**All Source Intelligence Analyst**   
+**Business Analyst**   
 
 Can be downloaded in PDF here! [Download](https://github.com/gavinboss/gavinboss.github.io/blob/main/Gavin%20Boss%20CV.pdf)
 
 ---
 
 ## Professional Summary
-Intelligence Analyst with over 7 years of experience in intelligence analysis, data synthesis, and operational leadership. Extensive experience across **OSINT**, **SIGINT**, and **HUMINT** domains. Proven ability to identify trends, develop actionable insights, and support strategic decision-making in high-tempo environments. Passionate about applying analytical thinking and technology to strengthen mission success and organizational intelligence capabilities.
+Business Intelligence and Data Analyst with 8+ years of experience transforming complex datasets into actionable insights that support executive decision-making. Completed a Master of Science in Applied Business Analytics from Boston University, with expertise in Python, SQL, Power BI, machine learning, predictive analytics, statistical modeling, and data visualization. Proven ability to develop executive reports, identify trends, and communicate analytical findings that drive strategic business decisions.
 
 ---
 
 ## Education
 **Boston University**  
 *Master of Science in Applied Business Analytics*  
-*Jan 2025 – Present*
+*Jan 2025 – Aug 2026*
+Completed June 2026 | Degree Conferral August 2026
 
 **University of Maryland Global Campus**  
 *Bachelor’s Degree in Cybersecurity Management and Policy (Honors)*  
@@ -36,69 +37,78 @@ Intelligence Analyst with over 7 years of experience in intelligence analysis, d
 ## Professional Experience
 
 ### **Mid All Source Analyst — Amentum**
-*U.S. Central Command (USCENTCOM), Tampa, FL*  
+*Amentum – United States Central Command (USCENTCOM) at Tampa, FL*  
 
 **Mar 2025 – Present**  
-- Conducts geopolitical analysis to support CENTCOM’s strategic planning.  
-- Drafts intelligence reports aligned with command priorities, improving operational decision-making.  
-- Collaborates with external entities to co-author intelligence products and promote interagency coordination.  
-- Supports partner engagement across the 5th Fleet Area of Responsibility (AOR), strengthening regional intelligence cooperation.
+- Analyze multi-source operational datasets to identify trends, risks, and emerging patterns supporting executive decision-making across USCENTCOM operations.
+- Develop executive reports and analytical briefings that translate complex technical information into clear, business-focused recommendations for senior leadership. 
+- Collaborate with cross-functional organizations to deliver integrated analytical assessments that improve situational awareness and support executive decision-making. 
+- Deliver analytical reporting that informs operational planning and strategic decision-making for senior leadership. 
+- Present analytical findings to senior leadership, supporting strategic planning and operational decision-making.
+
 
 ---
 
-### **Intelligence Assistant — Commander Patrol and Reconnaissance Group**  
-*Norfolk, VA | Oct 2021 – Nov 2024*  
-- Provided intelligence analysis for global patrol and reconnaissance missions.  
-- Delivered Flag-level intelligence briefings, enhancing operational awareness and readiness.  
-- Managed security clearances for 47 personnel and ensured compliance with TS/SCI standards.  
-- Co-created the MPRA Special Security Program for maintaining aircraft with TS/SCI classification.
-
----
-
-### **Intelligence Watch Supervisor — USS Dwight D. Eisenhower** 
-*Norfolk, VA | Jun 2018 – Jun 2021*  
-- Led a 15-member team delivering daily intelligence briefs for C5F and C6F deployments.  
-- Produced over 1,000 intelligence products and 1,600 tactical reports supporting multi-fleet operations.  
-- Implemented advanced analytical techniques to improve threat assessments and operational planning.  
-- Recognized for outstanding leadership under high-stress operational conditions.
-
----
-
-### **Intelligence Specialist (E-6) — U.S. Navy**  
+### **Intelligence Specialist (Intelligence Analyst) | United States Navy**  
 *Norfolk, VA | Nov 2017 – Nov 2024*  
-- Coordinated intelligence operations for four warships, enhancing situational awareness.  
-- Supported C7F assets in Japan, preparing mission briefs and assessments.  
-- Developed and trained junior analysts, improving team efficiency and readiness.  
-- Leveraged OSINT, HUMINT, and SIGINT tools (including Analyst Notebook and Palantir) to produce actionable intelligence.
+- Produced more than 1,000 analytical reports supporting executive decision-making.
+- Led teams of up to 15 analysts during high-tempo operations.
+- Analyzed complex datasets to identify trends, risks, and actionable insights.
+- Developed reporting processes and standard operating procedures improving organizational efficiency.
+- Presented findings to senior leadership and cross-functional stakeholders.
+- Managed security programs supporting over 40 personnel.
 
 ---
 
-## Honors & Awards
-- Navy and Marine Corps Achievement Medal (3)  
-  - USS Dwight D. Eisenhower (Rear Adm. McLane)  
-  - USS Dwight D. Eisenhower (Capt. Campagna)  
-  - Patrol Squadron Sixteen (Cmdr. Radford)  
-- Navy and Marine Corps Commendation Medal (Adm. Mietus)  
-- Operational Deployments:  
-  - 2020 – Fifth and Sixth Fleet, Operation Inherent Resolve  
-  - 2021 – Fifth and Sixth Fleet, Operation Inherent Resolve  
-  - 2023 – Seventh Fleet (Kadena, Japan), MPRA Support
+## Technical Skills
+- Python
+- Power BI
+- Tableau
+- Excel (PivotTables, Power Query)
+- SQL
+- Jupyter Notebook
+- R / RStudio
+- Git/GitHub
+- Data Visualization
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- SciPy
 
+## Data Science & Statistics
+- Predictive Analytics
+- Statistical Modeling
+- Machine Learning
+- Regression Analysis
+- Classification Models
+- K-Means Clustering
+- Monte Carlo Simulation
+- Bayesian Analysis
+- Markov Chain Monte Carlo (MCMC)
+- Data Mining
+- Forecasting
+
+## Professional
+- Business Analytics
+- Executive Reporting
+- Data Storytelling
+- Cross-functional Collaboration
+- Stakeholder Communication
+- Process Improvement
+- Problem Solving
+- Project Management
 ---
 
-## Skills
-- **Security Clearance:** TS/SCI with Polygraph  
-- **Analytical Disciplines:** OSINT, HUMINT, SIGINT  
-- **Technical Skills:** Analyst Notebook, Palantir  
-- **Soft Skills:** Critical Thinking, Leadership, Collaboration, Communication  
-- **Project Management:** Strategic Planning, Data Analysis, Information Dissemination  
-
----
-
-## Military Experience
-- Directed 120 specialists, enhancing tactical readiness and information flow.  
-- Managed Special Security Program compliance for TS/SCI environments.  
-- Co-developed protocols for new intelligence-gathering processes and training standards.  
+## Projects
+# Boston University graduate projects
+*Graduate portfolio features 15+ projects in machine learning, business intelligence, forecasting, optimization, and risk analysis.*
+-	Machine Learning & Predictive Modeling
+-	Business Intelligence Dashboards (Power BI)
+-	Monte Carlo Risk Simulation
+-	Bayesian Statistical Analysis
+-	Forecasting & Time Series Analysis
+-	Business Optimization
 
 ---
 
