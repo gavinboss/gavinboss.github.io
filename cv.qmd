@@ -42,16 +42,14 @@ Completed June 2026 | Degree Conferral August 2026
 
 **Mar 2025 – Present**  
 
-- Analyze multi-source operational datasets to identify trends, risks, and emerging patterns supporting executive decision-making across USCENTCOM operations.
+- Analyze continuous, high-volume intelligence streams integrating SIGINT, HUMINT, MASINT, GEOINT, and OSINT to identify trends, risks, and emerging patterns across USCENTCOM operations.
 
-- Develop executive reports and analytical briefings that translate complex technical information into clear, business-focused recommendations for senior leadership. 
+- Develop executive reports and analytical briefings that translate complex multi-source data into clear, business-focused recommendations distributed across the intelligence community.
 
-- Collaborate with cross-functional organizations to deliver integrated analytical assessments that improve situational awareness and support executive decision-making. 
+- Collaborate with cross-functional organizations to deliver integrated analytical assessments that improve situational awareness and
+support strategic planning.
 
-- Deliver analytical reporting that informs operational planning and strategic decision-making for senior leadership. 
-
-- Present analytical findings to senior leadership, supporting strategic planning and operational decision-making.
-
+- Present analytical findings to senior leadership to inform operational planning and executive decision-making.
 
 ---
 
@@ -117,7 +115,7 @@ Completed June 2026 | Degree Conferral August 2026
 
 # Projects
 ## Boston University graduate projects
-*Graduate portfolio features 15+ projects in machine learning, business intelligence, forecasting, optimization, and risk analysis.*
+*Built 15+ graduate projects spanning machine learning, business intelligence, forecasting, optimization, and risk analysis, including Power BI dashboards, Monte Carlo risk simulations, Bayesian statistical analysis, and time series forecasting models.*
 
 -	Machine Learning & Predictive Modeling
 -	Business Intelligence Dashboards (Power BI)
