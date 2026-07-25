@@ -31,20 +31,20 @@ Business Intelligence and Data Analyst with 8+ years of experience transforming 
 
 ## Explore My Work
 
-### [Professional Experience](#professional-experience)
+### [Professional Experience]
 - Intelligence analysis and operational leadership in high-tempo environments.
 - Expertise across **OSINT, HUMINT, SIGINT** domains.
 - Leadership experience managing teams of up to 120 personnel.
 
-### [Education Projects](#projects)
+### [Education Projects]
 - Applied Business Analytics projects completed at Boston University.
 - Practical assignments demonstrating **data analysis, visualization, and decision modeling**.
 - All projects are accessible via GitHub links below.
 
-### [Skills & Tools](#skills)
-- **Technical Skills:** Analyst Notebook, Palantir, Python (for analytics), Excel, SQL
-- **Analytical Disciplines:** OSINT, HUMINT, SIGINT, Business Analytics
-- **Soft Skills:** Critical Thinking, Leadership, Collaboration, Communication
+### [Skills & Tools]
+- **Technical Skills:** Analyst Notebook, Python, Power BI, Tableau, Excel(PivotTables, Power Query), SQL, Jupyter Notebook, R, Git/Github, Data Visulization, Pandas, NumPy, Scikit-learn, Matplotlib, SciPy
+- **Data Science & Statistics:** Predictive Analytics, Statistical Modeling, Machine Learning, Regression Analysis, Classification Models, K-Means Clustering, Monte Carlo Simulation, Bayesian Analysis, Markov Chain Monte Carlo (MCMC), Data Mining, Forecasting
+- **Professional:** Business Analytics, Executive Reporting, Data Storytelling, Cross-functional Collaboration, Stakeholder Communication, Process Improvement, Problem Solving, Project Management
 
 ---
 
@@ -66,7 +66,7 @@ Each project includes documentation, visualizations, source code, and detailed a
 
 - [GitHub](https://github.com/gavinboss) – View all my projects and assignments  
 - [LinkedIn](https://www.linkedin.com/in/gavinboss/) – Professional networking  
-- [CV PDF](https://github.com/gavinboss/gavinboss.github.io/blob/main/Gavin%20Boss%20CV.pdf) – Download my CV
+- [CV PDF](https://github.com/gavinboss/gavinboss.github.io/blob/main/Business%20Analyst%20Resume_Gavin%20Boss.pdf) – Download my CV
 
 ---
 
