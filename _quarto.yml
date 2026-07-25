@@ -3,7 +3,7 @@ project:
   output-dir: .
 
 website:
-  title: "Gavin Boss - Applied Business Analytics Student"
+  title: "Gavin Boss - Business Analyst"
   navbar:
     left:
       - text: "About You"
