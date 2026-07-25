@@ -101,8 +101,8 @@ Completed June 2026 | Degree Conferral August 2026
 
 ---
 
-## Projects
-# Boston University graduate projects
+# Projects
+## Boston University graduate projects
 *Graduate portfolio features 15+ projects in machine learning, business intelligence, forecasting, optimization, and risk analysis.*
 -	Machine Learning & Predictive Modeling
 -	Business Intelligence Dashboards (Power BI)
