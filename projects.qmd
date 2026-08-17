@@ -110,7 +110,7 @@ Link: [Assignment 3 GitHub](https://github.com/met-ad-688/assignment-03-gavinbos
 </details>
 ---
 
-<details>
+<details id="salary-prediction">
 <summary><strong>Assignment 4</strong></summary>
 
 <br>
@@ -255,7 +255,7 @@ Link: [Assignment 3 GitHub](https://github.com/gavinboss/AD699-Data-Mining-for-B
 
 ---
 
-<details>
+<details id="zurich-airbnb">
 <summary><strong>Group Project</strong></summary>
 
 <br>
@@ -473,7 +473,7 @@ Link: [Assignment 3 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-R
 
 ---
 
-<details>
+<details id="monte-carlo-optimization">
 <summary><strong>Assignment 4</strong></summary>
 
 <br>
@@ -503,7 +503,7 @@ Link: [Assignment 4 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-R
 
 ---
 
-<details>
+<details id="bayesian-mcmc">
 <summary><strong>Assignment 5</strong></summary>
 
 <br>
@@ -813,7 +813,7 @@ Link: [Assignment 5 GitHub](https://github.com/gavinboss/METAD-616S-Enterprise-R
 
 ---
 
-<details>
+<details id="real-estate-capstone">
 <summary><strong>Final Presentation</strong></summary>
 
 <br>
