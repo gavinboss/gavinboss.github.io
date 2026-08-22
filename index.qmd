@@ -1,72 +1,170 @@
+```qmd
 ---
-title: Gavin Boss | Business Analyst
+title: "Gavin Boss | Data & Business Analytics"
 author: "Gavin Boss"
-format: 
+format:
   html:
     toc: true
-    toc-depth: 3
+    toc-depth: 2
     code-fold: false
     theme: cosmo
     css: styles.css
+---
+
+# Gavin Boss
+
+**Senior Analyst | M.S. Applied Business Analytics | Python • SQL • Power BI • Predictive Analytics**
+
+I am an analytics professional with **8+ years of experience** solving complex problems, identifying meaningful patterns, and translating analysis into actionable recommendations for senior decision-makers.
+
+I completed a **Master of Science in Applied Business Analytics at Boston University**, where I expanded my professional analytical background with hands-on work in **Python, SQL, Power BI, statistical modeling, machine learning, forecasting, simulation, optimization, and data visualization**.
+
+My work focuses on turning complex data into clear insights that support better decisions, improve processes, and help organizations understand what is driving performance.
+
+[View Projects](projects.html){.btn .btn-primary}
+[View Professional Experience](experience.html){.btn .btn-outline-primary}
+[GitHub](https://github.com/gavinboss){.btn .btn-outline-secondary}
+[LinkedIn](https://www.linkedin.com/in/gavinboss/){.btn .btn-outline-secondary}
 
 ---
 
-**Applied Business Analytics Graduate | All Source Intelligence Analyst | Data & Strategy Enthusiast**
+## What I Bring
 
----
+### Data & Predictive Analytics
 
-## Welcome
+- Python, SQL, R, Pandas, NumPy, SciPy, and Scikit-learn
+- Predictive modeling, regression, classification, clustering, and forecasting
+- Bayesian analysis, Monte Carlo simulation, optimization, and statistical testing
+- Data cleaning, feature engineering, model evaluation, and reproducible analysis
 
-Hi, I’m Gavin Boss — a recent **Applied Business Analytics** graduate from Boston University with a passion for data, analytics, and problem-solving. I bring **8+ years of experience in intelligence analysis** from the U.S. military and am now transitioning into the private sector to expand my analytical expertise into business applications.
+### Business Intelligence & Visualization
 
-I specialize in transforming complex data into actionable insights, leading teams, and supporting strategic decision-making. My goal is to leverage my analytical toolkit to solve real-world business problems and drive impactful results.
+- Power BI, Tableau, Excel, Power Query, and Matplotlib
+- KPI development and performance reporting
+- Dashboard design and data storytelling
+- Executive-level reporting and decision support
 
----
+### Analytical Decision Support
 
-## Professional Summary
-
-Business Intelligence and Data Analyst with 8+ years of experience transforming complex data into actionable insights that support executive decision-making. Currently completing a Master of Science in Applied Business Analytics at Boston University, with hands-on experience in Python, SQL, Power BI, machine learning, predictive analytics, statistical modeling, and data visualization. Passionate about solving business problems through data-driven analysis, communicating technical findings to diverse stakeholders, and building analytical solutions that improve organizational performance.
-
----
-
-## Explore My Work
-
-### [Professional Experience]
-- Intelligence analysis and operational leadership in high-tempo environments.
-- Expertise across **OSINT, HUMINT, SIGINT** domains.
-- Leadership experience managing teams of up to 120 personnel.
-
-### [Education Projects]
-- Applied Business Analytics projects completed at Boston University.
-- Practical assignments demonstrating **data analysis, visualization, and decision modeling**.
-- All projects are accessible via GitHub links below.
-
-### [Skills & Tools]
-- **Technical Skills:** Analyst Notebook, Python, Power BI, Tableau, Excel(PivotTables, Power Query), SQL, Jupyter Notebook, R, Git/Github, Data Visulization, Pandas, NumPy, Scikit-learn, Matplotlib, SciPy
-- **Data Science & Statistics:** Predictive Analytics, Statistical Modeling, Machine Learning, Regression Analysis, Classification Models, K-Means Clustering, Monte Carlo Simulation, Bayesian Analysis, Markov Chain Monte Carlo (MCMC), Data Mining, Forecasting
-- **Professional:** Business Analytics, Executive Reporting, Data Storytelling, Cross-functional Collaboration, Stakeholder Communication, Process Improvement, Problem Solving, Project Management
+- 8+ years of professional analytical experience
+- Pattern, trend, and anomaly identification
+- Structured problem solving in ambiguous environments
+- Cross-functional collaboration and stakeholder communication
+- Leadership, process improvement, and workflow standardization
 
 ---
 
 ## Featured Projects
 
-My portfolio showcases graduate-level projects completed at **Boston University** in business analytics, data science, machine learning, and risk analysis. These projects demonstrate practical experience with Python, R, SQL, Power BI, statistical modeling, predictive analytics, optimization, and data visualization to solve real-world business problems.
+### Predictive Salary Modeling
 
-Highlights include:
-- **Cloud Analytics for Business** – Data exploration, visualization, and machine learning using labor market datasets.
-- **Data Mining for Business Analytics** – Predictive modeling, classification, clustering, NLP, and an end-to-end Airbnb market analysis project.
-- **Enterprise Risk Analysis** – Monte Carlo simulation, Bayesian inference, optimization, decision analysis, and financial risk modeling.
-- **Business Analytics Foundations** – Business intelligence, forecasting, regression analysis, optimization, and strategic decision-making through a comprehensive real estate analytics case study.
+Built and compared **generalized linear regression, polynomial regression, and Random Forest models** in Python to predict salary outcomes and evaluate the variables most strongly associated with compensation.
 
-Each project includes documentation, visualizations, source code, and detailed analyses hosted on GitHub.
+**Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
+**Methods:** Regression, Random Forest, feature importance, model evaluation
+
+[View Project](projects.html)
+
+### Zurich Airbnb Market Analysis
+
+Analyzed Airbnb listing data using **regression, classification, clustering, NLP, and dimensionality reduction** to identify market patterns, customer segments, and factors associated with listing performance.
+
+**Tools:** Python, Pandas, Scikit-learn  
+**Methods:** Random Forest, K-Means, PCA, TF-IDF, regression
+
+[View Project](projects.html)
+
+### Risk, Simulation & Decision Optimization
+
+Developed quantitative decision models to compare business strategies under uncertainty using **forecasting, Monte Carlo simulation, Bayesian inference, optimization, and financial decision analysis**.
+
+Projects included:
+
+- 50,000-path demand simulations
+- 100,000-trial strategy optimization
+- Bayesian probability modeling
+- Net Present Value decision frameworks
+- Risk-constrained resource allocation
+
+**Tools:** Python, NumPy, SciPy  
+**Methods:** Monte Carlo simulation, Bayesian analysis, forecasting, optimization
+
+[View Project](projects.html)
+
+---
+
+## Professional Background
+
+Before expanding into business and data analytics, I built more than **eight years of professional analytical experience** in national-security environments.
+
+My work has required me to:
+
+- Analyze complex and incomplete information
+- Identify emerging patterns, risks, and relationships
+- Develop high-confidence analytical assessments
+- Lead analytical teams in high-tempo environments
+- Communicate findings and recommendations to senior decision-makers
+- Improve analytical workflows, reporting standards, and organizational processes
+
+This experience now complements my technical analytics background, allowing me to approach business problems with both **quantitative rigor and strong analytical judgment**.
+
+[View Professional Experience](experience.html)
+
+---
+
+## Technical Skills
+
+**Programming & Data:**  
+Python • SQL • R • Pandas • NumPy • SciPy • Scikit-learn • Jupyter Notebook
+
+**Business Intelligence:**  
+Power BI • Tableau • Excel • Power Query • Matplotlib
+
+**Analytics:**  
+Predictive Modeling • Statistical Modeling • Regression • Classification • Clustering • Forecasting • Machine Learning • Bayesian Analysis • Monte Carlo Simulation • Optimization
+
+**Development:**  
+Git • GitHub
+
+**Professional:**  
+Data Storytelling • Executive Reporting • Stakeholder Communication • Process Improvement • Decision Support • Cross-Functional Collaboration
+
+---
+
+## Education
+
+### Boston University
+
+**M.S. Applied Business Analytics**
+
+Graduate coursework and projects focused on:
+
+- Predictive analytics and machine learning
+- Statistical modeling
+- Business intelligence
+- Forecasting and optimization
+- Simulation and uncertainty analysis
+- Data visualization and decision support
+
+### University of Maryland Global Campus
+
+**B.S. Cybersecurity Management & Policy — Honors**
+
+---
+
+## Explore My Work
+
+[Projects](projects.html) •
+[GitHub](https://github.com/gavinboss) •
+[LinkedIn](https://www.linkedin.com/in/gavinboss/)
 
 ---
 
 ## Connect With Me
 
-- [GitHub](https://github.com/gavinboss) – View all my projects and assignments  
-- [LinkedIn](https://www.linkedin.com/in/gavinboss/) – Professional networking  
-- [CV PDF](https://github.com/gavinboss/gavinboss.github.io/blob/main/Business%20Analyst%20Resume_Gavin%20Boss.pdf) – Download my CV
+**GitHub:** [github.com/gavinboss](https://github.com/gavinboss)
 
----
+**LinkedIn:** [linkedin.com/in/gavinboss](https://www.linkedin.com/in/gavinboss/)
 
+**Project Portfolio:** [gavinboss.github.io/projects.html](https://gavinboss.github.io/projects.html)
+```
