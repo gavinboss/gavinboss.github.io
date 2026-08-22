@@ -16,7 +16,7 @@ format:
 
 Analytics professional with 8+ years of experience solving complex problems, identifying meaningful patterns, and translating analytical findings into actionable recommendations for senior decision-makers.
 
-[Download Resume PDF](Business%20Intelligence%20Analyst%20-%20Gavin%20Boss%20Resume.pdf){.btn .btn-primary}
+[Download Resume PDF](Gavin_Boss_Data_Analytics_Resume.pdf){.btn .btn-primary}
 
 [LinkedIn](https://www.linkedin.com/in/gavinboss/){.btn .btn-outline-primary}
 [GitHub](https://github.com/gavinboss){.btn .btn-outline-secondary}
