@@ -1,4 +1,3 @@
-```qmd
 ---
 title: "Gavin Boss | Data & Business Analytics"
 author: "Gavin Boss"
