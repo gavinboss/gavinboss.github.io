@@ -1,131 +1,182 @@
 ---
 title: "Curriculum Vitae"
 author: "Gavin Boss"
-format: 
+format:
   html:
     toc: true
-    toc-depth: 3
+    toc-depth: 2
     code-fold: false
     theme: cosmo
     css: styles.css
 ---
 
 # Gavin Boss
-**Business Analyst**   
 
-Can be downloaded in PDF here! [Download](https://github.com/gavinboss/gavinboss.github.io/blob/main/Business%20Intelligence%20Analyst%20-%20Gavin%20Boss%20Resume.pdf)
+**Data & Business Analytics | Python • SQL • Power BI • Predictive Analytics**
+
+Analytics professional with 8+ years of experience solving complex problems, identifying meaningful patterns, and translating analytical findings into actionable recommendations for senior decision-makers.
+
+[Download Resume PDF](Business%20Intelligence%20Analyst%20-%20Gavin%20Boss%20Resume.pdf){.btn .btn-primary}
+
+[LinkedIn](https://www.linkedin.com/in/gavinboss/){.btn .btn-outline-primary}
+[GitHub](https://github.com/gavinboss){.btn .btn-outline-secondary}
+[Projects](projects.html){.btn .btn-outline-secondary}
 
 ---
 
 ## Professional Summary
-Business Intelligence and Data Analyst with 8+ years of experience transforming complex datasets into actionable insights that support executive decision-making. Completed a Master of Science in Applied Business Analytics from Boston University, with expertise in Python, SQL, Power BI, machine learning, predictive analytics, statistical modeling, and data visualization. Proven ability to develop executive reports, identify trends, and communicate analytical findings that drive strategic business decisions.
+
+Analytics professional with **8+ years of experience** transforming complex information into actionable insights that support strategic and operational decision-making.
+
+Completed a **Master of Science in Applied Business Analytics from Boston University**, combining extensive professional analytical experience with hands-on technical expertise in **Python, SQL, Power BI, statistical modeling, machine learning, predictive analytics, forecasting, simulation, optimization, and data visualization**.
+
+Experienced in developing analytical assessments, identifying trends and anomalies, evaluating competing explanations, improving analytical workflows, and communicating complex findings to senior technical and non-technical stakeholders.
 
 ---
 
-## Education
-**Boston University**  
-*Master of Science in Applied Business Analytics*  
-*Jan 2025 – Aug 2026*
+## Core Competencies
 
-Completed June 2026 | Degree Conferral August 2026
+**Data Analytics & Programming:**  
+Python • SQL • R • Pandas • NumPy • SciPy • Scikit-learn • Jupyter Notebook
 
-**University of Maryland Global Campus**  
-*Bachelor’s Degree in Cybersecurity Management and Policy (Honors)*  
-*2021 – Dec 2024*
+**Business Intelligence & Visualization:**  
+Power BI • Tableau • Excel • Power Query • Matplotlib • KPI Reporting • Dashboard Development
+
+**Data Science & Statistics:**  
+Predictive Modeling • Statistical Modeling • Regression • Classification • Random Forest • Decision Trees • KNN • K-Means Clustering • PCA • Forecasting • Bayesian Analysis • Monte Carlo Simulation • MCMC • Data Mining • Optimization
+
+**Professional Analytics:**  
+Executive Reporting • Data Storytelling • Decision Support • Stakeholder Communication • Cross-Functional Collaboration • Process Improvement • Analytical Leadership • Structured Problem Solving
 
 ---
 
 ## Professional Experience
 
-### **Mid All Source Analyst — Amentum**
-*Amentum – United States Central Command (USCENTCOM) at Tampa, FL*  
+### Mid All-Source Analyst — Amentum
 
-**Mar 2025 – Present**  
+**United States Central Command (USCENTCOM) | Tampa, FL**  
+*Mar 2025 – Present*
 
-- Analyze continuous, high-volume intelligence streams integrating SIGINT, HUMINT, MASINT, GEOINT, and OSINT to identify trends, risks, and emerging patterns across USCENTCOM operations.
+- Analyze continuous, high-volume multi-source reporting to identify **trends, relationships, anomalies, emerging indicators, and risks** that inform strategic and operational decisions.
+- Translate complex and ambiguous organizational questions into structured analytical problems, measurable indicators, and decision-ready assessments.
+- Integrate multiple data and information sources to evaluate competing explanations, identify meaningful patterns, and produce defensible analytical findings.
+- Develop recurring analytical reports and executive briefings that communicate complex findings and recommendations to senior decision-makers.
+- Collaborate across organizational and functional boundaries to develop integrated assessments, resolve information gaps, and improve analytical quality.
+- Apply structured analytical methods, validation processes, and quality controls to improve the accuracy, consistency, and reliability of analytical products.
+- Develop and refine repeatable analytical workflows and documentation to improve efficiency, standardization, and knowledge transfer.
 
-- Develop executive reports and analytical briefings that translate complex multi-source data into clear, business-focused recommendations distributed across the intelligence community.
+### Intelligence Specialist (Intelligence Analyst) — United States Navy
 
-- Collaborate with cross-functional organizations to deliver integrated analytical assessments that improve situational awareness and
-support strategic planning.
+**Norfolk, VA**  
+*Nov 2017 – Nov 2024*
 
-- Present analytical findings to senior leadership to inform operational planning and executive decision-making.
+- Produced **1,000+ analytical assessments** supporting tactical, operational, and strategic decision-making across multiple organizations and geographic regions.
+- Led teams of up to **15 analysts**, managing analytical workloads, quality standards, training, and competing priorities in high-tempo environments.
+- Analyzed complex operational information to identify trends, risks, relationships, and resource requirements and translated findings into actionable recommendations.
+- Evaluated staffing, workload, and operational demand to support resource allocation, capacity planning, and prioritization decisions.
+- Developed standard operating procedures, analytical standards, reporting guidance, and repeatable workflows that improved organizational efficiency and consistency.
+- Presented complex analytical findings to senior leaders and cross-functional stakeholders.
+- Managed security and information programs supporting more than **40 personnel**, ensuring compliance, documentation accuracy, and protection of sensitive information.
 
 ---
 
-### **Intelligence Specialist (Intelligence Analyst) | United States Navy**  
-*Norfolk, VA*
+## Education
 
-**Nov 2017 – Nov 2024**
+### Boston University
 
-- Produced more than 1,000 analytical reports supporting executive decision-making.
+**Master of Science in Applied Business Analytics**  
+*Jan 2025 – Aug 2026*
 
-- Led teams of up to 15 analysts during high-tempo operations.
+Completed June 2026 | Degree Conferral August 2026
 
-- Analyzed complex datasets to identify trends, risks, and actionable insights.
+Graduate study focused on:
 
-- Developed reporting processes and standard operating procedures improving organizational efficiency.
+- Machine Learning & Predictive Analytics
+- Statistical Modeling
+- Business Intelligence
+- Data Mining
+- Forecasting & Time Series Analysis
+- Monte Carlo Simulation
+- Bayesian Analysis
+- Optimization & Decision Modeling
+- Data Visualization
+- Business Strategy & Analytics
 
-- Presented findings to senior leadership and cross-functional stakeholders.
+### University of Maryland Global Campus
 
-- Managed security programs supporting over 40 personnel.
+**Bachelor of Science in Cybersecurity Management and Policy — Honors**  
+*2021 – Dec 2024*
+
+---
+
+## Selected Analytics Projects
+
+### Predictive Salary Modeling
+
+Developed and compared **generalized linear regression, polynomial regression, and Random Forest models** in Python to predict salary outcomes and evaluate influential features.
+
+**Methods:** Regression • Random Forest • Feature Analysis • Model Evaluation  
+**Tools:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
+
+### Market Segmentation & Machine Learning
+
+Applied **classification, clustering, NLP, and dimensionality reduction** techniques to business and market datasets to identify patterns and meaningful segments.
+
+**Methods:** KNN • Decision Trees • Random Forest • K-Means • PCA • TF-IDF  
+**Tools:** Python • Pandas • Scikit-learn
+
+### Forecasting, Simulation & Optimization
+
+Developed quantitative decision models to evaluate alternative strategies under uncertainty, including:
+
+- **50,000-path** demand simulations
+- **100,000-trial** optimization analyses
+- Time-series forecasting
+- Bayesian probability modeling
+- Risk-constrained resource allocation
+- Net Present Value decision frameworks
+
+**Methods:** Monte Carlo Simulation • Bayesian Analysis • Forecasting • Optimization • Sensitivity Analysis  
+**Tools:** Python • NumPy • SciPy • Pandas
+
+[View Full Project Portfolio](projects.html){.btn .btn-primary}
 
 ---
 
 ## Technical Skills
-- Python
-- Power BI
-- Tableau
-- Excel (PivotTables, Power Query)
-- SQL
-- Jupyter Notebook
-- R / RStudio
-- Git/GitHub
-- Data Visualization
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- SciPy
 
-## Data Science & Statistics
-- Predictive Analytics
-- Statistical Modeling
-- Machine Learning
-- Regression Analysis
-- Classification Models
-- K-Means Clustering
-- Monte Carlo Simulation
-- Bayesian Analysis
-- Markov Chain Monte Carlo (MCMC)
-- Data Mining
-- Forecasting
+| Area | Technologies & Methods |
+|---|---|
+| **Programming** | Python, SQL, R |
+| **Python Analytics** | Pandas, NumPy, SciPy, Scikit-learn |
+| **Business Intelligence** | Power BI, Tableau, Excel, Power Query |
+| **Visualization** | Matplotlib, Power BI, Tableau |
+| **Machine Learning** | Regression, Random Forest, Decision Trees, KNN, K-Means |
+| **Statistics** | Hypothesis Testing, Bayesian Analysis, MCMC, Statistical Modeling |
+| **Decision Science** | Forecasting, Monte Carlo Simulation, Optimization, Risk Analysis |
+| **Development** | Git, GitHub, Jupyter Notebook |
 
-## Professional
-- Business Analytics
-- Executive Reporting
+---
+
+## Professional Strengths
+
+- Analytical Problem Solving
+- Executive-Level Communication
 - Data Storytelling
-- Cross-functional Collaboration
-- Stakeholder Communication
+- Cross-Functional Collaboration
+- Stakeholder Management
 - Process Improvement
-- Problem Solving
-- Project Management
+- Analytical Leadership
+- Decision Support
+- Technical Documentation
 
 ---
 
-# Projects
-## Boston University graduate projects
-*Built 15+ graduate projects spanning machine learning, business intelligence, forecasting, optimization, and risk analysis, including Power BI dashboards, Monte Carlo risk simulations, Bayesian statistical analysis, and time series forecasting models.*
+## Connect
 
--	Machine Learning & Predictive Modeling
--	Business Intelligence Dashboards (Power BI)
--	Monte Carlo Risk Simulation
--	Bayesian Statistical Analysis
--	Forecasting & Time Series Analysis
--	Business Optimization
+**LinkedIn:** [linkedin.com/in/gavinboss](https://www.linkedin.com/in/gavinboss/)
 
----
+**GitHub:** [github.com/gavinboss](https://github.com/gavinboss)
 
-## Languages
-- **English:** Native  
----
+**Project Portfolio:** [gavinboss.github.io/projects.html](https://gavinboss.github.io/projects.html)
+```
