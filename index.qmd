@@ -21,7 +21,6 @@ I completed a **Master of Science in Applied Business Analytics at Boston Univer
 My work focuses on turning complex data into clear insights that support better decisions, improve processes, and help organizations understand what is driving performance.
 
 [View Projects](projects.html){.btn .btn-primary}
-[View Professional Experience](experience.html){.btn .btn-outline-primary}
 [GitHub](https://github.com/gavinboss){.btn .btn-outline-secondary}
 [LinkedIn](https://www.linkedin.com/in/gavinboss/){.btn .btn-outline-secondary}
 
@@ -107,7 +106,6 @@ My work has required me to:
 
 This experience now complements my technical analytics background, allowing me to approach business problems with both **quantitative rigor and strong analytical judgment**.
 
-[View Professional Experience](experience.html)
 
 ---
 
