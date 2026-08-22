@@ -2,6 +2,7 @@
 title: "About Me"
 ---
 
+
 Hi, I’m Gavin Boss — an analytics professional with more than **8 years of experience in intelligence analysis** and a recently completed **Master of Science in Applied Business Analytics from Boston University**.
 
 My professional background has focused on solving complex problems, identifying meaningful patterns, and translating analysis into clear recommendations for senior decision-makers. I currently work as an **All-Source Analyst supporting USCENTCOM**, where I operate in a high-tempo environment that requires analytical rigor, sound judgment, and the ability to work with complex and incomplete information.
@@ -13,4 +14,3 @@ I am now focused on transitioning from government contracting and national-secur
 My long-term goal is to continue developing expertise in **data analytics, business intelligence, predictive modeling, and analytical automation**, while helping organizations make better decisions through clear, data-driven insight.
 
 ![Profile photo](images/1754051516368.jpg)
-```
